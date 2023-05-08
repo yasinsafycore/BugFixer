@@ -1,0 +1,12 @@
+D:\Projects\BugFixer\BugFixer.Domain\bin\Release\net6.0\BugFixer.Domain.deps.json
+D:\Projects\BugFixer\BugFixer.Domain\bin\Release\net6.0\BugFixer.Domain.dll
+D:\Projects\BugFixer\BugFixer.Domain\bin\Release\net6.0\BugFixer.Domain.pdb
+D:\Projects\BugFixer\BugFixer.Domain\obj\Release\net6.0\BugFixer.Domain.csproj.AssemblyReference.cache
+D:\Projects\BugFixer\BugFixer.Domain\obj\Release\net6.0\BugFixer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\BugFixer\BugFixer.Domain\obj\Release\net6.0\BugFixer.Domain.AssemblyInfoInputs.cache
+D:\Projects\BugFixer\BugFixer.Domain\obj\Release\net6.0\BugFixer.Domain.AssemblyInfo.cs
+D:\Projects\BugFixer\BugFixer.Domain\obj\Release\net6.0\BugFixer.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\BugFixer\BugFixer.Domain\obj\Release\net6.0\BugFixer.Domain.dll
+D:\Projects\BugFixer\BugFixer.Domain\obj\Release\net6.0\refint\BugFixer.Domain.dll
+D:\Projects\BugFixer\BugFixer.Domain\obj\Release\net6.0\BugFixer.Domain.pdb
+D:\Projects\BugFixer\BugFixer.Domain\obj\Release\net6.0\ref\BugFixer.Domain.dll

@@ -1,0 +1,15 @@
+D:\Projects\BugFixer\BugFixer.Application\bin\Release\net6.0\BugFixer.Application.deps.json
+D:\Projects\BugFixer\BugFixer.Application\bin\Release\net6.0\BugFixer.Application.dll
+D:\Projects\BugFixer\BugFixer.Application\bin\Release\net6.0\BugFixer.Application.pdb
+D:\Projects\BugFixer\BugFixer.Application\bin\Release\net6.0\BugFixer.Domain.dll
+D:\Projects\BugFixer\BugFixer.Application\bin\Release\net6.0\BugFixer.Domain.pdb
+D:\Projects\BugFixer\BugFixer.Application\obj\Release\net6.0\BugFixer.Application.csproj.AssemblyReference.cache
+D:\Projects\BugFixer\BugFixer.Application\obj\Release\net6.0\BugFixer.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\BugFixer\BugFixer.Application\obj\Release\net6.0\BugFixer.Application.AssemblyInfoInputs.cache
+D:\Projects\BugFixer\BugFixer.Application\obj\Release\net6.0\BugFixer.Application.AssemblyInfo.cs
+D:\Projects\BugFixer\BugFixer.Application\obj\Release\net6.0\BugFixer.Application.csproj.CoreCompileInputs.cache
+D:\Projects\BugFixer\BugFixer.Application\obj\Release\net6.0\BugFixer.Application.csproj.CopyComplete
+D:\Projects\BugFixer\BugFixer.Application\obj\Release\net6.0\BugFixer.Application.dll
+D:\Projects\BugFixer\BugFixer.Application\obj\Release\net6.0\refint\BugFixer.Application.dll
+D:\Projects\BugFixer\BugFixer.Application\obj\Release\net6.0\BugFixer.Application.pdb
+D:\Projects\BugFixer\BugFixer.Application\obj\Release\net6.0\ref\BugFixer.Application.dll

@@ -1,0 +1,17 @@
+D:\Projects\BugFixer\BugFixer.DataLayer\bin\Release\net6.0\BugFixer.DataLayer.deps.json
+D:\Projects\BugFixer\BugFixer.DataLayer\bin\Release\net6.0\BugFixer.DataLayer.runtimeconfig.json
+D:\Projects\BugFixer\BugFixer.DataLayer\bin\Release\net6.0\BugFixer.DataLayer.dll
+D:\Projects\BugFixer\BugFixer.DataLayer\bin\Release\net6.0\BugFixer.DataLayer.pdb
+D:\Projects\BugFixer\BugFixer.DataLayer\bin\Release\net6.0\BugFixer.Domain.dll
+D:\Projects\BugFixer\BugFixer.DataLayer\bin\Release\net6.0\BugFixer.Domain.pdb
+D:\Projects\BugFixer\BugFixer.DataLayer\obj\Release\net6.0\BugFixer.DataLayer.csproj.AssemblyReference.cache
+D:\Projects\BugFixer\BugFixer.DataLayer\obj\Release\net6.0\BugFixer.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\BugFixer\BugFixer.DataLayer\obj\Release\net6.0\BugFixer.DataLayer.AssemblyInfoInputs.cache
+D:\Projects\BugFixer\BugFixer.DataLayer\obj\Release\net6.0\BugFixer.DataLayer.AssemblyInfo.cs
+D:\Projects\BugFixer\BugFixer.DataLayer\obj\Release\net6.0\BugFixer.DataLayer.csproj.CoreCompileInputs.cache
+D:\Projects\BugFixer\BugFixer.DataLayer\obj\Release\net6.0\BugFixer.DataLayer.csproj.CopyComplete
+D:\Projects\BugFixer\BugFixer.DataLayer\obj\Release\net6.0\BugFixer.DataLayer.dll
+D:\Projects\BugFixer\BugFixer.DataLayer\obj\Release\net6.0\refint\BugFixer.DataLayer.dll
+D:\Projects\BugFixer\BugFixer.DataLayer\obj\Release\net6.0\BugFixer.DataLayer.pdb
+D:\Projects\BugFixer\BugFixer.DataLayer\obj\Release\net6.0\BugFixer.DataLayer.genruntimeconfig.cache
+D:\Projects\BugFixer\BugFixer.DataLayer\obj\Release\net6.0\ref\BugFixer.DataLayer.dll

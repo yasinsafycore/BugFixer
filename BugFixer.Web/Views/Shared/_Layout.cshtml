@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html class="no-js" dir="rtl" lang="fa-IR">
+<head>
+    <meta charset="UTF-8">
+    <title> @ViewData["Title"] </title>
+    <meta name="robots" content="index, follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="@($"{Context.Request.Scheme}://{Context.Request.Host + Context.Request.Path}")"/>
+
+    @await RenderSectionAsync("MetaTags", false)
+
+    <partial name="_HeaderReferences" />
+
+    @await RenderSectionAsync("Styles", false)
+</head>
+<body>
+    <script src="/js/modernizr.js"></script>
+
+    @await RenderSectionAsync("Header", true)
+
+    @RenderBody()
+
+    <partial name="_Footer" />
+
+    <partial name="_FooterReferences" />
+
+    <partial name="_Notification" />
+
+    @await RenderSectionAsync("Scripts", false)
+</body>
+</html>
